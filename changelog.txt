@@ -1,0 +1,4 @@
+1.0.9:
+  + Sanitize album folder name
+1.0.10:
+  + Strip trailing periods in album names which cause issues on windows
